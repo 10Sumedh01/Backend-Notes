@@ -1,0 +1,13 @@
+Express -> Frame work for node js (a npm package)
+
+Express use case -> routing 
+routing -> GET / POST / PUT / PATCH / DELETE
+           GET -> Shows data in url
+           POST -> Does not Show data in url
+
+
+Middleware use case ->  Middleware runs in between of change of route.
+                        Adds logic between the request and the response.
+                        Enhances the functionality of your app without modifying core code.
+                        Offers modularity and reusability for common tasks.
+                    

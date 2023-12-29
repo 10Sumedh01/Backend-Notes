@@ -1,0 +1,8 @@
+npm => node package manager  (old full form)
+(playstore for node packages/ libraries)
+
+
+npm usage ->
+1. npm install - Website for packages (npmjs.com)
+   Ex: npm install one-liner-joke
+        
